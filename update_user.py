@@ -8,7 +8,7 @@ def update_user(user, daftar_review):
         jeda()
         return daftar_review
     try:
-        nomor = int(input("\nMasukkan nomor ulasan Anda yang ingin diubah (0 untuk batal): "))
+        nomor = int(input("\nMasukkan nomor ulasan Anda yang ingin ubah (0 untuk batal): "))
         if nomor == 0:
             print("Perubahan dibatalkan.")
             jeda()
