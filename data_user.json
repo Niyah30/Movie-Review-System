@@ -33,10 +33,16 @@
         "username": "meisya",
         "password": "123456",
         "role": "user",
-        "status": "aktif"
+        "status": "blokir"
     },
     {
         "username": "wili",
+        "password": "123456",
+        "role": "user",
+        "status": "aktif"
+    },
+    {
+        "username": "taesan",
         "password": "123456",
         "role": "user",
         "status": "aktif"
