@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "username": "wili",
+        "judul": "Sore",
+        "genre": "Drama",
+        "rating": 10,
+        "ulasan": "mantap bangett"
+    },
+    {
+        "username": "wili",
+        "judul": "Jumbo",
+        "genre": "kartun",
+        "rating": 10,
+        "ulasan": "asik"
+    }
+]
